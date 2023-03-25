@@ -8,11 +8,9 @@ def factorial(n):
         return fact
 
 if __name__ == "__main__":
-    # Pedimos al usuario que ingrese un número
+
     num = int(input("Ingrese un número: "))
 
-    # Calculamos su factorial usando la función factorial
     fact = factorial(num)
 
-    # Imprimimos el resultado
     print(f"El factorial de {num} es {fact}")
