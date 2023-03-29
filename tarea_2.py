@@ -1,4 +1,4 @@
-from primer_punto import consultar_horario
+from primer_punto import consultar_horario 
 from segundo_punto import crear_lista, mayor, primos
 print(f"ALgoritmo que imprime horario desde materia","\n","Algoritmo que de una lita aleatoria clasifica sus numeros con el mayor y primos")
 
